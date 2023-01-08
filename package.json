@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-jest": "^29.7.0"
+  },
+  "jest": {
+
+  }
+}
