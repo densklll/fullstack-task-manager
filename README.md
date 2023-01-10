@@ -89,3 +89,5 @@ cd frontend && npm test
 ## Contributing
 
 Issues and pull requests are welcome.
+
+- *2023-01-10* — Review react-router state after login (local dev)
