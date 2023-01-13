@@ -13,3 +13,4 @@ class Task(models.Model):
 
     def __str__(self):
         return self.title 
+# 2023-01-13: Document swagger path in local README (prod checklist)
