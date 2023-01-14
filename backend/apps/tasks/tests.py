@@ -31,3 +31,4 @@ class TaskAPITestCase(APITestCase):
         self.assertEqual(response.status_code, status.HTTP_200_OK)
         for task in response.data:
             self.assertEqual(task['status'], 'pending') 
+# 2023-01-15: Document Celery task idempotency key (local dev)
