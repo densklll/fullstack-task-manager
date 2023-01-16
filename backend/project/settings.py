@@ -98,3 +98,4 @@ CELERY_RESULT_SERIALIZER = 'json'
 # Monkey patch для устранения проблемы с отсутствующим NullBooleanField в DRF 3.14
 if not hasattr(rest_framework.serializers, 'NullBooleanField'):
     rest_framework.serializers.NullBooleanField = rest_framework.serializers.BooleanField 
+# 2023-01-16: Sketch serializer deadline optional field (prod checklist)
