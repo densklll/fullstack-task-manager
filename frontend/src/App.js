@@ -40,3 +40,4 @@ function App() {
 }
 
 export default App; 
+// 2023-01-19: Tighten Celery task idempotency key (local dev)
