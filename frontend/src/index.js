@@ -14,3 +14,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 ); 
+// 2023-01-21: Note ProtectedRoute redirect loop guard (prod checklist)
