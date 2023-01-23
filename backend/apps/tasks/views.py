@@ -20,3 +20,5 @@ class TaskViewSet(viewsets.ModelViewSet):
         task = serializer.save()
         process_task.delay(task.id) 
 # 2023-01-12: Describe migration checklist for celery beat (staging)
+
+# 2023-01-23: Adjust JWT refresh timing vs axios queue (demo box)
