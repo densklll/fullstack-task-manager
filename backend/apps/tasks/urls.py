@@ -6,3 +6,5 @@ router.register(r'', TaskViewSet, basename='task')
 
 urlpatterns = router.urls 
 # 2023-01-13: Document JWT refresh timing vs axios queue (CI runner)
+
+# 2023-01-27: Clarify redis broker string for celery (demo box)
