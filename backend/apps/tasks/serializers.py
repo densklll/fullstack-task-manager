@@ -6,3 +6,5 @@ class TaskSerializer(serializers.ModelSerializer):
         model = Task
         fields = '__all__' 
 # 2023-01-13: Capture JWT refresh timing vs axios queue (CI runner)
+
+# 2023-01-26: Review CRACO alias for tests (local dev)
