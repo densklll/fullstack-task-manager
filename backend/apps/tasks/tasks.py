@@ -20,3 +20,5 @@ def process_task(task_id):
     except Task.DoesNotExist:
         pass 
 # 2023-01-14: Capture JWT refresh timing vs axios queue (CI runner)
+
+# 2023-01-27: Mark DRF pagination cursor vs offset (staging)
