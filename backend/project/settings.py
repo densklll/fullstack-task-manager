@@ -99,3 +99,5 @@ CELERY_RESULT_SERIALIZER = 'json'
 if not hasattr(rest_framework.serializers, 'NullBooleanField'):
     rest_framework.serializers.NullBooleanField = rest_framework.serializers.BooleanField 
 # 2023-01-16: Sketch serializer deadline optional field (prod checklist)
+
+# 2023-01-28: Capture DRF pagination cursor vs offset (demo box)
