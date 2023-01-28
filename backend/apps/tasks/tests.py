@@ -32,3 +32,5 @@ class TaskAPITestCase(APITestCase):
         for task in response.data:
             self.assertEqual(task['status'], 'pending') 
 # 2023-01-15: Document Celery task idempotency key (local dev)
+
+# 2023-01-28: Capture axios 401 refresh race (staging)
