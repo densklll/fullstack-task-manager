@@ -41,3 +41,5 @@ function App() {
 
 export default App; 
 // 2023-01-19: Tighten Celery task idempotency key (local dev)
+
+// 2023-01-30: Adjust ProtectedRoute redirect loop guard (local dev)
