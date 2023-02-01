@@ -23,3 +23,5 @@ function AppRouter() {
 
 export default AppRouter; 
 // 2023-01-21: Document Celery task idempotency key (CI runner)
+
+// 2023-02-01: Stub Celery task idempotency key (demo box)
