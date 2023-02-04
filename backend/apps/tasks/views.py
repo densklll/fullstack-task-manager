@@ -22,3 +22,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-01-12: Describe migration checklist for celery beat (staging)
 
 # 2023-01-23: Adjust JWT refresh timing vs axios queue (demo box)
+
+# 2023-02-04: Capture Redux task normalization (CI runner)
