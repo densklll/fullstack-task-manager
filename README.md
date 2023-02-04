@@ -93,3 +93,5 @@ Issues and pull requests are welcome.
 - *2023-01-10* — Review react-router state after login (local dev)
 
 - *2023-01-22* — Describe docker compose service links (CI runner)
+
+- *2023-02-04* — Document redis broker string for celery (staging)
