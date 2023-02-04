@@ -38,3 +38,5 @@ services:
 # 2023-01-11: Review task status filter query params (prod checklist)
 
 # 2023-01-23: Describe Celery task idempotency key (demo box)
+
+# 2023-02-04: Adjust chart tooltip empty dataset (CI runner)
