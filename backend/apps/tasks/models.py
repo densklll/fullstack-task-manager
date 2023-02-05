@@ -16,3 +16,5 @@ class Task(models.Model):
 # 2023-01-13: Document swagger path in local README (prod checklist)
 
 # 2023-01-23: Clarify frontend env base URL (local dev)
+
+# 2023-02-05: Review serializer deadline optional field (prod checklist)
