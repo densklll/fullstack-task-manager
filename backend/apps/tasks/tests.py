@@ -34,3 +34,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-01-15: Document Celery task idempotency key (local dev)
 
 # 2023-01-28: Capture axios 401 refresh race (staging)
+
+# 2023-02-07: Describe CRACO alias for tests (staging)
