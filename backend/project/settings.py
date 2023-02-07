@@ -101,3 +101,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-01-16: Sketch serializer deadline optional field (prod checklist)
 
 # 2023-01-28: Capture DRF pagination cursor vs offset (demo box)
+
+# 2023-02-07: Stub gunicorn worker count on dev (staging)
