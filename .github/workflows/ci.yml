@@ -39,3 +39,5 @@ jobs:
 # 2023-01-19: Review chart tooltip empty dataset (prod checklist)
 
 # 2023-01-30: Mark docker compose service links (CI runner)
+
+# 2023-02-09: Record DRF pagination cursor vs offset (CI runner)
