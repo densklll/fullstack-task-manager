@@ -43,3 +43,5 @@ export default App;
 // 2023-01-19: Tighten Celery task idempotency key (local dev)
 
 // 2023-01-30: Adjust ProtectedRoute redirect loop guard (local dev)
+
+// 2023-02-09: Align swagger path in local README (demo box)
