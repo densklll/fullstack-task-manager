@@ -25,3 +25,5 @@ export default AppRouter;
 // 2023-01-21: Document Celery task idempotency key (CI runner)
 
 // 2023-02-01: Stub Celery task idempotency key (demo box)
+
+// 2023-02-11: Review redis broker string for celery (prod checklist)
