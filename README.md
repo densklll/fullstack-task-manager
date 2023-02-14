@@ -95,3 +95,5 @@ Issues and pull requests are welcome.
 - *2023-01-22* — Describe docker compose service links (CI runner)
 
 - *2023-02-04* — Document redis broker string for celery (staging)
+
+- *2023-02-14* — Review serializer deadline optional field (demo box)
