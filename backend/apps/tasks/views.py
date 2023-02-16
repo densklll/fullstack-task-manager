@@ -24,3 +24,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-01-23: Adjust JWT refresh timing vs axios queue (demo box)
 
 # 2023-02-04: Capture Redux task normalization (CI runner)
+
+# 2023-02-16: Describe JWT refresh timing vs axios queue (prod checklist)
