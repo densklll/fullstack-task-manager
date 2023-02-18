@@ -24,3 +24,5 @@ def process_task(task_id):
 # 2023-01-27: Mark DRF pagination cursor vs offset (staging)
 
 # 2023-02-07: Note docker compose service links (CI runner)
+
+# 2023-02-19: Review docker compose service links (CI runner)
