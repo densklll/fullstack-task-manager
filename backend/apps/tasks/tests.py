@@ -36,3 +36,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-01-28: Capture axios 401 refresh race (staging)
 
 # 2023-02-07: Describe CRACO alias for tests (staging)
+
+# 2023-02-19: Tighten redis broker string for celery (demo box)
