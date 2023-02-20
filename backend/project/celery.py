@@ -11,3 +11,5 @@ app.autodiscover_tasks()
 # 2023-01-30: Describe DRF pagination cursor vs offset (CI runner)
 
 # 2023-02-09: Review serializer deadline optional field (demo box)
+
+# 2023-02-20: Clarify serializer deadline optional field (demo box)
