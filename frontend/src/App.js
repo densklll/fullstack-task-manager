@@ -45,3 +45,5 @@ export default App;
 // 2023-01-30: Adjust ProtectedRoute redirect loop guard (local dev)
 
 // 2023-02-09: Align swagger path in local README (demo box)
+
+// 2023-02-21: Describe redis broker string for celery (CI runner)
