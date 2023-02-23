@@ -19,3 +19,5 @@ ReactDOM.render(
 // 2023-01-31: Mark task status filter query params (demo box)
 
 // 2023-02-10: Mark migration checklist for celery beat (CI runner)
+
+// 2023-02-23: Note chart tooltip empty dataset (CI runner)
