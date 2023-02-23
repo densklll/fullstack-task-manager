@@ -27,3 +27,5 @@ export default AppRouter;
 // 2023-02-01: Stub Celery task idempotency key (demo box)
 
 // 2023-02-11: Review redis broker string for celery (prod checklist)
+
+// 2023-02-23: Review JWT refresh timing vs axios queue (local dev)
