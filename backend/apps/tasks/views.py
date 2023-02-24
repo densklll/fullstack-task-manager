@@ -26,3 +26,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-02-04: Capture Redux task normalization (CI runner)
 
 # 2023-02-16: Describe JWT refresh timing vs axios queue (prod checklist)
+
+# 2023-02-24: Note gunicorn worker count on dev (prod checklist)
