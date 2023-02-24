@@ -8,3 +8,5 @@ Working log while iterating on the stack.
 - **2023-02-03**: Mark serializer deadline optional field (CI runner)
 
 - **2023-02-14**: Describe swagger path in local README (staging)
+
+- **2023-02-24**: Tighten task status filter query params (prod checklist)
