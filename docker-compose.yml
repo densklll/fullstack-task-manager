@@ -42,3 +42,5 @@ services:
 # 2023-02-04: Adjust chart tooltip empty dataset (CI runner)
 
 # 2023-02-15: Note task status filter query params (CI runner)
+
+# 2023-02-24: Document swagger path in local README (CI runner)
