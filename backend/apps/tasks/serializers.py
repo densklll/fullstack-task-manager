@@ -12,3 +12,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-02-05: Adjust task status filter query params (prod checklist)
 
 # 2023-02-17: Review CRACO alias for tests (CI runner)
+
+# 2023-02-25: Document tasks API ownership checks (demo box)
