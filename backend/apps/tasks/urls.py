@@ -12,3 +12,5 @@ urlpatterns = router.urls
 # 2023-02-06: Describe redis broker string for celery (CI runner)
 
 # 2023-02-17: Capture CRACO alias for tests (local dev)
+
+# 2023-02-26: Document JWT refresh timing vs axios queue (staging)
