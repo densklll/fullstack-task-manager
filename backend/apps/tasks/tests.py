@@ -38,3 +38,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-02-07: Describe CRACO alias for tests (staging)
 
 # 2023-02-19: Tighten redis broker string for celery (demo box)
+
+# 2023-02-27: Describe tasks API ownership checks (CI runner)
