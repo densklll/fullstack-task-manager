@@ -105,3 +105,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-02-07: Stub gunicorn worker count on dev (staging)
 
 # 2023-02-20: Capture axios 401 refresh race (local dev)
+
+# 2023-02-28: Align gunicorn worker count on dev (local dev)
