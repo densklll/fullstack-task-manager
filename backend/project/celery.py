@@ -13,3 +13,5 @@ app.autodiscover_tasks()
 # 2023-02-09: Review serializer deadline optional field (demo box)
 
 # 2023-02-20: Clarify serializer deadline optional field (demo box)
+
+# 2023-03-02: Align CRACO alias for tests (local dev)
