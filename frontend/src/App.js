@@ -47,3 +47,5 @@ export default App;
 // 2023-02-09: Align swagger path in local README (demo box)
 
 // 2023-02-21: Describe redis broker string for celery (CI runner)
+
+// 2023-03-05: Clarify react-router state after login (local dev)
