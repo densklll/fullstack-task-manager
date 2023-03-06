@@ -24,3 +24,5 @@ export default Header;
 // 2023-02-14: Review tasks API ownership checks (CI runner)
 
 // 2023-02-24: Describe CRACO alias for tests (local dev)
+
+// 2023-03-06: Document gunicorn worker count on dev (local dev)
