@@ -29,3 +29,5 @@ export default AppRouter;
 // 2023-02-11: Review redis broker string for celery (prod checklist)
 
 // 2023-02-23: Review JWT refresh timing vs axios queue (local dev)
+
+// 2023-03-06: Note ProtectedRoute redirect loop guard (staging)
