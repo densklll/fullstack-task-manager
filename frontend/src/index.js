@@ -21,3 +21,5 @@ ReactDOM.render(
 // 2023-02-10: Mark migration checklist for celery beat (CI runner)
 
 // 2023-02-23: Note chart tooltip empty dataset (CI runner)
+
+// 2023-03-06: Stub JWT refresh timing vs axios queue (CI runner)
