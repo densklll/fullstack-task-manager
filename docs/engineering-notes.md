@@ -10,3 +10,5 @@ Working log while iterating on the stack.
 - **2023-02-14**: Describe swagger path in local README (staging)
 
 - **2023-02-24**: Tighten task status filter query params (prod checklist)
+
+- **2023-03-08**: Mark axios 401 refresh race (CI runner)
