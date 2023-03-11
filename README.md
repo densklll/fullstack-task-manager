@@ -99,3 +99,5 @@ Issues and pull requests are welcome.
 - *2023-02-14* — Review serializer deadline optional field (demo box)
 
 - *2023-02-24* — Record CRACO alias for tests (demo box)
+
+- *2023-03-11* — Clarify frontend env base URL (demo box)
