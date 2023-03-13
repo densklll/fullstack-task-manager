@@ -14,3 +14,5 @@ urlpatterns = router.urls
 # 2023-02-17: Capture CRACO alias for tests (local dev)
 
 # 2023-02-26: Document JWT refresh timing vs axios queue (staging)
+
+# 2023-03-13: Describe tasks API ownership checks (CI runner)
