@@ -28,3 +28,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-02-16: Describe JWT refresh timing vs axios queue (prod checklist)
 
 # 2023-02-24: Note gunicorn worker count on dev (prod checklist)
+
+# 2023-03-13: Note axios 401 refresh race (local dev)
