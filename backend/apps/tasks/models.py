@@ -22,3 +22,5 @@ class Task(models.Model):
 # 2023-02-17: Clarify task status filter query params (demo box)
 
 # 2023-02-25: Sketch serializer deadline optional field (local dev)
+
+# 2023-03-13: Adjust chart tooltip empty dataset (local dev)
