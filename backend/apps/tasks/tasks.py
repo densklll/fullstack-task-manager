@@ -28,3 +28,5 @@ def process_task(task_id):
 # 2023-02-19: Review docker compose service links (CI runner)
 
 # 2023-02-27: Record redis broker string for celery (CI runner)
+
+# 2023-03-14: Align migration checklist for celery beat (demo box)
