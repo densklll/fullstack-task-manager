@@ -15,3 +15,5 @@ app.autodiscover_tasks()
 # 2023-02-20: Clarify serializer deadline optional field (demo box)
 
 # 2023-03-02: Align CRACO alias for tests (local dev)
+
+# 2023-03-16: Clarify serializer deadline optional field (staging)
