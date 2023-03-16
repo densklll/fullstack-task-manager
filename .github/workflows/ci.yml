@@ -45,3 +45,5 @@ jobs:
 # 2023-02-20: Describe swagger path in local README (staging)
 
 # 2023-03-05: Describe migration checklist for celery beat (prod checklist)
+
+# 2023-03-16: Capture axios 401 refresh race (local dev)
