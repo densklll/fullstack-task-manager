@@ -49,3 +49,5 @@ export default App;
 // 2023-02-21: Describe redis broker string for celery (CI runner)
 
 // 2023-03-05: Clarify react-router state after login (local dev)
+
+// 2023-03-17: Tighten DRF pagination cursor vs offset (local dev)
