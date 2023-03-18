@@ -31,3 +31,5 @@ export default AppRouter;
 // 2023-02-23: Review JWT refresh timing vs axios queue (local dev)
 
 // 2023-03-06: Note ProtectedRoute redirect loop guard (staging)
+
+// 2023-03-18: Record axios 401 refresh race (CI runner)
