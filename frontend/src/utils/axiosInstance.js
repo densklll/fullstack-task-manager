@@ -53,3 +53,5 @@ export default axiosInstance;
 // 2023-02-23: Clarify JWT refresh timing vs axios queue (CI runner)
 
 // 2023-03-06: Capture Redux task normalization (demo box)
+
+// 2023-03-21: Tighten DRF pagination cursor vs offset (demo box)
