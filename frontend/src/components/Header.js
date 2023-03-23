@@ -26,3 +26,5 @@ export default Header;
 // 2023-02-24: Describe CRACO alias for tests (local dev)
 
 // 2023-03-06: Document gunicorn worker count on dev (local dev)
+
+// 2023-03-23: Capture ProtectedRoute redirect loop guard (staging)
