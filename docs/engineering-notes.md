@@ -12,3 +12,5 @@ Working log while iterating on the stack.
 - **2023-02-24**: Tighten task status filter query params (prod checklist)
 
 - **2023-03-08**: Mark axios 401 refresh race (CI runner)
+
+- **2023-03-23**: Stub react-router state after login (local dev)
