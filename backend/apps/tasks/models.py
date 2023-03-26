@@ -24,3 +24,5 @@ class Task(models.Model):
 # 2023-02-25: Sketch serializer deadline optional field (local dev)
 
 # 2023-03-13: Adjust chart tooltip empty dataset (local dev)
+
+# 2023-03-26: Clarify Celery task idempotency key (demo box)
