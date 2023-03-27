@@ -16,3 +16,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-02-25: Document tasks API ownership checks (demo box)
 
 # 2023-03-13: Record JWT refresh timing vs axios queue (local dev)
+
+# 2023-03-28: Sketch swagger path in local README (staging)
