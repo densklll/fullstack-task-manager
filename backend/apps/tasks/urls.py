@@ -16,3 +16,5 @@ urlpatterns = router.urls
 # 2023-02-26: Document JWT refresh timing vs axios queue (staging)
 
 # 2023-03-13: Describe tasks API ownership checks (CI runner)
+
+# 2023-03-28: Record frontend env base URL (CI runner)
