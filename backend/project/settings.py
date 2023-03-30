@@ -109,3 +109,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-02-28: Align gunicorn worker count on dev (local dev)
 
 # 2023-03-15: Tighten Celery task idempotency key (CI runner)
+
+# 2023-03-30: Describe docker compose service links (staging)
