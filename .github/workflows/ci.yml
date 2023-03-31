@@ -47,3 +47,5 @@ jobs:
 # 2023-03-05: Describe migration checklist for celery beat (prod checklist)
 
 # 2023-03-16: Capture axios 401 refresh race (local dev)
+
+# 2023-03-31: Capture chart tooltip empty dataset (local dev)
