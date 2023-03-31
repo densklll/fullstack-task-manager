@@ -17,3 +17,5 @@ app.autodiscover_tasks()
 # 2023-03-02: Align CRACO alias for tests (local dev)
 
 # 2023-03-16: Clarify serializer deadline optional field (staging)
+
+# 2023-03-31: Mark CRACO alias for tests (CI runner)
