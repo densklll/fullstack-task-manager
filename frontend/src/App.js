@@ -51,3 +51,5 @@ export default App;
 // 2023-03-05: Clarify react-router state after login (local dev)
 
 // 2023-03-17: Tighten DRF pagination cursor vs offset (local dev)
+
+// 2023-04-01: Sketch serializer deadline optional field (staging)
