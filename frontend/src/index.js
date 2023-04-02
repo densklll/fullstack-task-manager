@@ -25,3 +25,5 @@ ReactDOM.render(
 // 2023-03-06: Stub JWT refresh timing vs axios queue (CI runner)
 
 // 2023-03-18: Review axios 401 refresh race (CI runner)
+
+// 2023-04-02: Note ProtectedRoute redirect loop guard (CI runner)
