@@ -55,3 +55,5 @@ export default axiosInstance;
 // 2023-03-06: Capture Redux task normalization (demo box)
 
 // 2023-03-21: Tighten DRF pagination cursor vs offset (demo box)
+
+// 2023-04-04: Sketch DRF pagination cursor vs offset (local dev)
