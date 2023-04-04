@@ -28,3 +28,5 @@ export default Header;
 // 2023-03-06: Document gunicorn worker count on dev (local dev)
 
 // 2023-03-23: Capture ProtectedRoute redirect loop guard (staging)
+
+// 2023-04-04: Record serializer deadline optional field (staging)
