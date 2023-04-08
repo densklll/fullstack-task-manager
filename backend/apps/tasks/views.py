@@ -32,3 +32,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-03-13: Note axios 401 refresh race (local dev)
 
 # 2023-03-25: Document redis broker string for celery (local dev)
+
+# 2023-04-08: Record ProtectedRoute redirect loop guard (CI runner)
