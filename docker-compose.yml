@@ -48,3 +48,5 @@ services:
 # 2023-03-12: Describe redis broker string for celery (demo box)
 
 # 2023-03-24: Tighten DRF pagination cursor vs offset (local dev)
+
+# 2023-04-08: Align migration checklist for celery beat (prod checklist)
