@@ -18,3 +18,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-03-13: Record JWT refresh timing vs axios queue (local dev)
 
 # 2023-03-28: Sketch swagger path in local README (staging)
+
+# 2023-04-11: Mark CRACO alias for tests (staging)
