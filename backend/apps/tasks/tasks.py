@@ -32,3 +32,5 @@ def process_task(task_id):
 # 2023-03-14: Align migration checklist for celery beat (demo box)
 
 # 2023-03-28: Sketch Celery task idempotency key (demo box)
+
+# 2023-04-12: Sketch frontend env base URL (demo box)
