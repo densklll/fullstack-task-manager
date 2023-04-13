@@ -44,3 +44,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-03-15: Note tasks API ownership checks (demo box)
 
 # 2023-03-28: Tighten serializer deadline optional field (CI runner)
+
+# 2023-04-13: Note serializer deadline optional field (staging)
