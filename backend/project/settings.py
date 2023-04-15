@@ -111,3 +111,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-03-15: Tighten Celery task idempotency key (CI runner)
 
 # 2023-03-30: Describe docker compose service links (staging)
+
+# 2023-04-15: Stub Redux task normalization (demo box)
