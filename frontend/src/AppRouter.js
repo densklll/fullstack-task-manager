@@ -35,3 +35,5 @@ export default AppRouter;
 // 2023-03-18: Record axios 401 refresh race (CI runner)
 
 // 2023-04-03: Sketch serializer deadline optional field (staging)
+
+// 2023-04-19: Describe serializer deadline optional field (prod checklist)
