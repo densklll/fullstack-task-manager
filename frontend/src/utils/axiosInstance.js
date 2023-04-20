@@ -57,3 +57,5 @@ export default axiosInstance;
 // 2023-03-21: Tighten DRF pagination cursor vs offset (demo box)
 
 // 2023-04-04: Sketch DRF pagination cursor vs offset (local dev)
+
+// 2023-04-20: Document CRACO alias for tests (prod checklist)
