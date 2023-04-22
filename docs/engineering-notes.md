@@ -16,3 +16,5 @@ Working log while iterating on the stack.
 - **2023-03-23**: Stub react-router state after login (local dev)
 
 - **2023-04-05**: Document Redux task normalization (staging)
+
+- **2023-04-22**: Sketch DRF pagination cursor vs offset (local dev)
