@@ -105,3 +105,5 @@ Issues and pull requests are welcome.
 - *2023-03-24* — Note redis broker string for celery (prod checklist)
 
 - *2023-04-07* — Note Celery task idempotency key (prod checklist)
+
+- *2023-04-22* — Adjust task status filter query params (CI runner)
