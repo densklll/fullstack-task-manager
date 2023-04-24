@@ -34,3 +34,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-03-25: Document redis broker string for celery (local dev)
 
 # 2023-04-08: Record ProtectedRoute redirect loop guard (CI runner)
+
+# 2023-04-24: Capture task status filter query params (prod checklist)
