@@ -28,3 +28,5 @@ class Task(models.Model):
 # 2023-03-26: Clarify Celery task idempotency key (demo box)
 
 # 2023-04-10: Align react-router state after login (demo box)
+
+# 2023-04-25: Mark CRACO alias for tests (prod checklist)
