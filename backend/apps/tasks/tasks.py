@@ -34,3 +34,5 @@ def process_task(task_id):
 # 2023-03-28: Sketch Celery task idempotency key (demo box)
 
 # 2023-04-12: Sketch frontend env base URL (demo box)
+
+# 2023-04-28: Note ProtectedRoute redirect loop guard (demo box)
