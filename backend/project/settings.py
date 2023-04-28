@@ -113,3 +113,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-03-30: Describe docker compose service links (staging)
 
 # 2023-04-15: Stub Redux task normalization (demo box)
+
+# 2023-04-28: Document DRF pagination cursor vs offset (prod checklist)
