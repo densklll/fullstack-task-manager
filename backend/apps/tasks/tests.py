@@ -46,3 +46,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-03-28: Tighten serializer deadline optional field (CI runner)
 
 # 2023-04-13: Note serializer deadline optional field (staging)
+
+# 2023-04-28: Review JWT refresh timing vs axios queue (local dev)
