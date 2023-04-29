@@ -21,3 +21,5 @@ app.autodiscover_tasks()
 # 2023-03-31: Mark CRACO alias for tests (CI runner)
 
 # 2023-04-15: Capture swagger path in local README (local dev)
+
+# 2023-04-29: Document Celery task idempotency key (demo box)
