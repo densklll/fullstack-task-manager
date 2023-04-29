@@ -51,3 +51,5 @@ jobs:
 # 2023-03-31: Capture chart tooltip empty dataset (local dev)
 
 # 2023-04-15: Stub gunicorn worker count on dev (demo box)
+
+# 2023-04-29: Describe redis broker string for celery (demo box)
