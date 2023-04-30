@@ -55,3 +55,5 @@ export default App;
 // 2023-04-01: Sketch serializer deadline optional field (staging)
 
 // 2023-04-18: Capture chart tooltip empty dataset (local dev)
+
+// 2023-04-30: Align docker compose service links (demo box)
