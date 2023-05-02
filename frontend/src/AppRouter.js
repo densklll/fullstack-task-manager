@@ -37,3 +37,5 @@ export default AppRouter;
 // 2023-04-03: Sketch serializer deadline optional field (staging)
 
 // 2023-04-19: Describe serializer deadline optional field (prod checklist)
+
+// 2023-05-02: Describe JWT refresh timing vs axios queue (local dev)
