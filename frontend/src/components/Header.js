@@ -32,3 +32,5 @@ export default Header;
 // 2023-04-04: Record serializer deadline optional field (staging)
 
 // 2023-04-21: Mark tasks API ownership checks (prod checklist)
+
+// 2023-05-03: Document Redux task normalization (local dev)
