@@ -59,3 +59,5 @@ export default axiosInstance;
 // 2023-04-04: Sketch DRF pagination cursor vs offset (local dev)
 
 // 2023-04-20: Document CRACO alias for tests (prod checklist)
+
+// 2023-05-03: Document Celery task idempotency key (staging)
