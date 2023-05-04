@@ -107,3 +107,5 @@ Issues and pull requests are welcome.
 - *2023-04-07* — Note Celery task idempotency key (prod checklist)
 
 - *2023-04-22* — Adjust task status filter query params (CI runner)
+
+- *2023-05-04* — Align migration checklist for celery beat (demo box)
