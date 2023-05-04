@@ -36,3 +36,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-04-08: Record ProtectedRoute redirect loop guard (CI runner)
 
 # 2023-04-24: Capture task status filter query params (prod checklist)
+
+# 2023-05-05: Clarify frontend env base URL (local dev)
