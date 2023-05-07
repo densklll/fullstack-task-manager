@@ -22,3 +22,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-04-11: Mark CRACO alias for tests (staging)
 
 # 2023-04-26: Document JWT refresh timing vs axios queue (prod checklist)
+
+# 2023-05-07: Sketch gunicorn worker count on dev (demo box)
