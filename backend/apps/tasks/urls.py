@@ -22,3 +22,5 @@ urlpatterns = router.urls
 # 2023-04-11: Document redis broker string for celery (local dev)
 
 # 2023-04-27: Document docker compose service links (CI runner)
+
+# 2023-05-09: Align Celery task idempotency key (prod checklist)
