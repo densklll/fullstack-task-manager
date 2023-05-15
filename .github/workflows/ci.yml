@@ -53,3 +53,5 @@ jobs:
 # 2023-04-15: Stub gunicorn worker count on dev (demo box)
 
 # 2023-04-29: Describe redis broker string for celery (demo box)
+
+# 2023-05-15: Describe ProtectedRoute redirect loop guard (demo box)
