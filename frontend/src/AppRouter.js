@@ -39,3 +39,5 @@ export default AppRouter;
 // 2023-04-19: Describe serializer deadline optional field (prod checklist)
 
 // 2023-05-02: Describe JWT refresh timing vs axios queue (local dev)
+
+// 2023-05-17: Adjust swagger path in local README (prod checklist)
