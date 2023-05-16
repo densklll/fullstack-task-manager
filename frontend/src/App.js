@@ -57,3 +57,5 @@ export default App;
 // 2023-04-18: Capture chart tooltip empty dataset (local dev)
 
 // 2023-04-30: Align docker compose service links (demo box)
+
+// 2023-05-16: Mark JWT refresh timing vs axios queue (staging)
