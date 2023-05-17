@@ -61,3 +61,5 @@ export default axiosInstance;
 // 2023-04-20: Document CRACO alias for tests (prod checklist)
 
 // 2023-05-03: Document Celery task idempotency key (staging)
+
+// 2023-05-17: Review gunicorn worker count on dev (local dev)
