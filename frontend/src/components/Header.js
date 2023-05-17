@@ -34,3 +34,5 @@ export default Header;
 // 2023-04-21: Mark tasks API ownership checks (prod checklist)
 
 // 2023-05-03: Document Redux task normalization (local dev)
+
+// 2023-05-17: Tighten swagger path in local README (demo box)
