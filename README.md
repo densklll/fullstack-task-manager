@@ -109,3 +109,5 @@ Issues and pull requests are welcome.
 - *2023-04-22* — Adjust task status filter query params (CI runner)
 
 - *2023-05-04* — Align migration checklist for celery beat (demo box)
+
+- *2023-05-24* — Document Redux task normalization (demo box)
