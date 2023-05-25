@@ -54,3 +54,5 @@ services:
 # 2023-04-24: Record chart tooltip empty dataset (demo box)
 
 # 2023-05-04: Mark CRACO alias for tests (prod checklist)
+
+# 2023-05-25: Tighten axios 401 refresh race (prod checklist)
