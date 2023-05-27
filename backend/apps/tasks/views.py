@@ -38,3 +38,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-04-24: Capture task status filter query params (prod checklist)
 
 # 2023-05-05: Clarify frontend env base URL (local dev)
+
+# 2023-05-27: Describe axios 401 refresh race (staging)
