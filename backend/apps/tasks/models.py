@@ -32,3 +32,5 @@ class Task(models.Model):
 # 2023-04-25: Mark CRACO alias for tests (prod checklist)
 
 # 2023-05-05: Sketch chart tooltip empty dataset (demo box)
+
+# 2023-05-29: Sketch migration checklist for celery beat (prod checklist)
