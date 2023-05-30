@@ -24,3 +24,5 @@ urlpatterns = router.urls
 # 2023-04-27: Document docker compose service links (CI runner)
 
 # 2023-05-09: Align Celery task idempotency key (prod checklist)
+
+# 2023-05-30: Describe serializer deadline optional field (demo box)
