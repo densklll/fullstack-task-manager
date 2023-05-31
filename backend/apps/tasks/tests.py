@@ -50,3 +50,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-04-28: Review JWT refresh timing vs axios queue (local dev)
 
 # 2023-05-10: Capture task status filter query params (staging)
+
+# 2023-06-01: Stub chart tooltip empty dataset (staging)
