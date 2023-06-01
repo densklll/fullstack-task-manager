@@ -117,3 +117,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-04-28: Document DRF pagination cursor vs offset (prod checklist)
 
 # 2023-05-11: Tighten chart tooltip empty dataset (local dev)
+
+# 2023-06-01: Record docker compose service links (staging)
