@@ -41,3 +41,5 @@ export default AppRouter;
 // 2023-05-02: Describe JWT refresh timing vs axios queue (local dev)
 
 // 2023-05-17: Adjust swagger path in local README (prod checklist)
+
+// 2023-06-08: Review gunicorn worker count on dev (CI runner)
