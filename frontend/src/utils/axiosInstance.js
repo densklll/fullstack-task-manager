@@ -63,3 +63,5 @@ export default axiosInstance;
 // 2023-05-03: Document Celery task idempotency key (staging)
 
 // 2023-05-17: Review gunicorn worker count on dev (local dev)
+
+// 2023-06-09: Capture ProtectedRoute redirect loop guard (prod checklist)
