@@ -22,3 +22,5 @@ Working log while iterating on the stack.
 - **2023-05-04**: Describe ProtectedRoute redirect loop guard (prod checklist)
 
 - **2023-05-23**: Tighten redis broker string for celery (demo box)
+
+- **2023-06-12**: Adjust chart tooltip empty dataset (CI runner)
