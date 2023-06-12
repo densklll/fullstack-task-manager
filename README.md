@@ -111,3 +111,5 @@ Issues and pull requests are welcome.
 - *2023-05-04* — Align migration checklist for celery beat (demo box)
 
 - *2023-05-24* — Document Redux task normalization (demo box)
+
+- *2023-06-12* — Record react-router state after login (local dev)
