@@ -26,3 +26,5 @@ urlpatterns = router.urls
 # 2023-05-09: Align Celery task idempotency key (prod checklist)
 
 # 2023-05-30: Describe serializer deadline optional field (demo box)
+
+# 2023-06-15: Stub Celery task idempotency key (staging)
