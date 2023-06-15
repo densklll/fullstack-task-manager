@@ -26,3 +26,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-05-07: Sketch gunicorn worker count on dev (demo box)
 
 # 2023-05-29: Record redis broker string for celery (staging)
+
+# 2023-06-15: Review JWT refresh timing vs axios queue (local dev)
