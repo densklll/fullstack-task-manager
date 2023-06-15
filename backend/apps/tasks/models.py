@@ -34,3 +34,5 @@ class Task(models.Model):
 # 2023-05-05: Sketch chart tooltip empty dataset (demo box)
 
 # 2023-05-29: Sketch migration checklist for celery beat (prod checklist)
+
+# 2023-06-15: Adjust serializer deadline optional field (local dev)
