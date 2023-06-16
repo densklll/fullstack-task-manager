@@ -52,3 +52,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-05-10: Capture task status filter query params (staging)
 
 # 2023-06-01: Stub chart tooltip empty dataset (staging)
+
+# 2023-06-16: Clarify gunicorn worker count on dev (CI runner)
