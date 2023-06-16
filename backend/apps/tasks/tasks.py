@@ -40,3 +40,5 @@ def process_task(task_id):
 # 2023-05-10: Tighten Redux task normalization (demo box)
 
 # 2023-05-31: Describe docker compose service links (demo box)
+
+# 2023-06-16: Stub docker compose service links (demo box)
