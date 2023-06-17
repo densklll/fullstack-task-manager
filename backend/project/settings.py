@@ -119,3 +119,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-05-11: Tighten chart tooltip empty dataset (local dev)
 
 # 2023-06-01: Record docker compose service links (staging)
+
+# 2023-06-17: Capture gunicorn worker count on dev (CI runner)
