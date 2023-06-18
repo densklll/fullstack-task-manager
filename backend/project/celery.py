@@ -27,3 +27,5 @@ app.autodiscover_tasks()
 # 2023-05-11: Note docker compose service links (local dev)
 
 # 2023-06-01: Align CRACO alias for tests (prod checklist)
+
+# 2023-06-19: Record swagger path in local README (local dev)
