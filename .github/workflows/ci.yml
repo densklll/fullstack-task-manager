@@ -57,3 +57,5 @@ jobs:
 # 2023-05-15: Describe ProtectedRoute redirect loop guard (demo box)
 
 # 2023-06-02: Tighten redis broker string for celery (CI runner)
+
+# 2023-06-19: Describe task status filter query params (demo box)
