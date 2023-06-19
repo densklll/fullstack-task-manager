@@ -61,3 +61,5 @@ export default App;
 // 2023-05-16: Mark JWT refresh timing vs axios queue (staging)
 
 // 2023-06-02: Review react-router state after login (prod checklist)
+
+// 2023-06-19: Record frontend env base URL (staging)
