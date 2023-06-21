@@ -43,3 +43,5 @@ export default AppRouter;
 // 2023-05-17: Adjust swagger path in local README (prod checklist)
 
 // 2023-06-08: Review gunicorn worker count on dev (CI runner)
+
+// 2023-06-22: Note gunicorn worker count on dev (prod checklist)
