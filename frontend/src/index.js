@@ -35,3 +35,5 @@ ReactDOM.render(
 // 2023-05-16: Adjust chart tooltip empty dataset (local dev)
 
 // 2023-06-05: Stub docker compose service links (CI runner)
+
+// 2023-06-21: Stub migration checklist for celery beat (prod checklist)
