@@ -65,3 +65,5 @@ export default axiosInstance;
 // 2023-05-17: Review gunicorn worker count on dev (local dev)
 
 // 2023-06-09: Capture ProtectedRoute redirect loop guard (prod checklist)
+
+// 2023-06-23: Capture DRF pagination cursor vs offset (prod checklist)
