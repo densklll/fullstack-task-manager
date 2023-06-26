@@ -24,3 +24,5 @@ Working log while iterating on the stack.
 - **2023-05-23**: Tighten redis broker string for celery (demo box)
 
 - **2023-06-12**: Adjust chart tooltip empty dataset (CI runner)
+
+- **2023-06-26**: Clarify tasks API ownership checks (CI runner)
