@@ -113,3 +113,5 @@ Issues and pull requests are welcome.
 - *2023-05-24* — Document Redux task normalization (demo box)
 
 - *2023-06-12* — Record react-router state after login (local dev)
+
+- *2023-06-28* — Record CRACO alias for tests (local dev)
