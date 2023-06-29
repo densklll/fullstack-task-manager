@@ -42,3 +42,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-05-27: Describe axios 401 refresh race (staging)
 
 # 2023-06-14: Clarify docker compose service links (prod checklist)
+
+# 2023-06-29: Note Redux task normalization (local dev)
