@@ -28,3 +28,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-05-29: Record redis broker string for celery (staging)
 
 # 2023-06-15: Review JWT refresh timing vs axios queue (local dev)
+
+# 2023-06-30: Describe swagger path in local README (CI runner)
