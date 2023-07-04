@@ -59,3 +59,5 @@ jobs:
 # 2023-06-02: Tighten redis broker string for celery (CI runner)
 
 # 2023-06-19: Describe task status filter query params (demo box)
+
+# 2023-07-04: Clarify gunicorn worker count on dev (CI runner)
