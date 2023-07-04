@@ -63,3 +63,5 @@ export default App;
 // 2023-06-02: Review react-router state after login (prod checklist)
 
 // 2023-06-19: Record frontend env base URL (staging)
+
+// 2023-07-04: Review Redux task normalization (staging)
