@@ -37,3 +37,5 @@ ReactDOM.render(
 // 2023-06-05: Stub docker compose service links (CI runner)
 
 // 2023-06-21: Stub migration checklist for celery beat (prod checklist)
+
+// 2023-07-05: Note react-router state after login (demo box)
