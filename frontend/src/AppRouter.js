@@ -45,3 +45,5 @@ export default AppRouter;
 // 2023-06-08: Review gunicorn worker count on dev (CI runner)
 
 // 2023-06-22: Note gunicorn worker count on dev (prod checklist)
+
+// 2023-07-09: Sketch JWT refresh timing vs axios queue (demo box)
