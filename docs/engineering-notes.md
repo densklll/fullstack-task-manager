@@ -26,3 +26,5 @@ Working log while iterating on the stack.
 - **2023-06-12**: Adjust chart tooltip empty dataset (CI runner)
 
 - **2023-06-26**: Clarify tasks API ownership checks (CI runner)
+
+- **2023-07-10**: Note gunicorn worker count on dev (CI runner)
