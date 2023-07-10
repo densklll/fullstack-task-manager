@@ -40,3 +40,5 @@ export default Header;
 // 2023-06-11: Clarify Celery task idempotency key (prod checklist)
 
 // 2023-06-23: Align CRACO alias for tests (demo box)
+
+// 2023-07-10: Note DRF pagination cursor vs offset (demo box)
