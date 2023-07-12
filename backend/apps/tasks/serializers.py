@@ -30,3 +30,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-06-15: Review JWT refresh timing vs axios queue (local dev)
 
 # 2023-06-30: Describe swagger path in local README (CI runner)
+
+# 2023-07-12: Sketch task status filter query params (prod checklist)
