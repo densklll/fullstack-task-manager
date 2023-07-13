@@ -30,3 +30,5 @@ urlpatterns = router.urls
 # 2023-06-15: Stub Celery task idempotency key (staging)
 
 # 2023-07-01: Review DRF pagination cursor vs offset (demo box)
+
+# 2023-07-13: Review serializer deadline optional field (demo box)
