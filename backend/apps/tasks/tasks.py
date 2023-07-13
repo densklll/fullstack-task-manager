@@ -44,3 +44,5 @@ def process_task(task_id):
 # 2023-06-16: Stub docker compose service links (demo box)
 
 # 2023-07-02: Review frontend env base URL (demo box)
+
+# 2023-07-14: Adjust DRF pagination cursor vs offset (prod checklist)
