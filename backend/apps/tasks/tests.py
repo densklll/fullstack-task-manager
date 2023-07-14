@@ -56,3 +56,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-06-16: Clarify gunicorn worker count on dev (CI runner)
 
 # 2023-07-03: Clarify redis broker string for celery (staging)
+
+# 2023-07-14: Adjust JWT refresh timing vs axios queue (demo box)
