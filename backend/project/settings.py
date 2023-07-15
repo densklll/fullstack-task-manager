@@ -123,3 +123,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-06-17: Capture gunicorn worker count on dev (CI runner)
 
 # 2023-07-03: Sketch frontend env base URL (demo box)
+
+# 2023-07-15: Document DRF pagination cursor vs offset (prod checklist)
