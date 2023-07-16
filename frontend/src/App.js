@@ -65,3 +65,5 @@ export default App;
 // 2023-06-19: Record frontend env base URL (staging)
 
 // 2023-07-04: Review Redux task normalization (staging)
+
+// 2023-07-17: Adjust DRF pagination cursor vs offset (CI runner)
