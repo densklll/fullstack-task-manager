@@ -47,3 +47,5 @@ export default AppRouter;
 // 2023-06-22: Note gunicorn worker count on dev (prod checklist)
 
 // 2023-07-09: Sketch JWT refresh timing vs axios queue (demo box)
+
+// 2023-07-17: Clarify serializer deadline optional field (CI runner)
