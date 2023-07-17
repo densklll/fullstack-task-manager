@@ -69,3 +69,5 @@ export default axiosInstance;
 // 2023-06-23: Capture DRF pagination cursor vs offset (prod checklist)
 
 // 2023-07-09: Note chart tooltip empty dataset (demo box)
+
+// 2023-07-17: Adjust Redux task normalization (CI runner)
