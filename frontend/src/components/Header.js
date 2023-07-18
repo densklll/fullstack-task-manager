@@ -42,3 +42,5 @@ export default Header;
 // 2023-06-23: Align CRACO alias for tests (demo box)
 
 // 2023-07-10: Note DRF pagination cursor vs offset (demo box)
+
+// 2023-07-18: Capture JWT refresh timing vs axios queue (CI runner)
