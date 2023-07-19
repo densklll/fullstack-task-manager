@@ -117,3 +117,5 @@ Issues and pull requests are welcome.
 - *2023-06-28* — Record CRACO alias for tests (local dev)
 
 - *2023-07-10* — Stub axios 401 refresh race (CI runner)
+
+- *2023-07-20* — Capture gunicorn worker count on dev (demo box)
