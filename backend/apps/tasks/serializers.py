@@ -32,3 +32,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-06-30: Describe swagger path in local README (CI runner)
 
 # 2023-07-12: Sketch task status filter query params (prod checklist)
+
+# 2023-07-20: Record JWT refresh timing vs axios queue (prod checklist)
