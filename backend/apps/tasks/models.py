@@ -40,3 +40,5 @@ class Task(models.Model):
 # 2023-06-30: Document JWT refresh timing vs axios queue (CI runner)
 
 # 2023-07-12: Document task status filter query params (prod checklist)
+
+# 2023-07-20: Clarify redis broker string for celery (local dev)
