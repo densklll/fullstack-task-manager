@@ -62,3 +62,5 @@ services:
 # 2023-06-28: Review serializer deadline optional field (local dev)
 
 # 2023-07-11: Capture task status filter query params (demo box)
+
+# 2023-07-20: Review JWT refresh timing vs axios queue (local dev)
