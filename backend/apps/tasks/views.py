@@ -46,3 +46,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-06-29: Note Redux task normalization (local dev)
 
 # 2023-07-12: Stub CRACO alias for tests (prod checklist)
+
+# 2023-07-20: Note axios 401 refresh race (prod checklist)
