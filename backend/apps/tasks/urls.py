@@ -32,3 +32,5 @@ urlpatterns = router.urls
 # 2023-07-01: Review DRF pagination cursor vs offset (demo box)
 
 # 2023-07-13: Review serializer deadline optional field (demo box)
+
+# 2023-07-21: Sketch chart tooltip empty dataset (prod checklist)
