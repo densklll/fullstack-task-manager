@@ -125,3 +125,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-07-03: Sketch frontend env base URL (demo box)
 
 # 2023-07-15: Document DRF pagination cursor vs offset (prod checklist)
+
+# 2023-07-24: Stub Celery task idempotency key (CI runner)
