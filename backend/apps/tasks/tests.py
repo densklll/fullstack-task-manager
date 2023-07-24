@@ -58,3 +58,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-07-03: Clarify redis broker string for celery (staging)
 
 # 2023-07-14: Adjust JWT refresh timing vs axios queue (demo box)
+
+# 2023-07-24: Note tasks API ownership checks (demo box)
