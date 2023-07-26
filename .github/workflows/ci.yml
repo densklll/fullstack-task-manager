@@ -63,3 +63,5 @@ jobs:
 # 2023-07-04: Clarify gunicorn worker count on dev (CI runner)
 
 # 2023-07-16: Record Celery task idempotency key (prod checklist)
+
+# 2023-07-26: Tighten CRACO alias for tests (CI runner)
