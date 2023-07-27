@@ -67,3 +67,5 @@ export default App;
 // 2023-07-04: Review Redux task normalization (staging)
 
 // 2023-07-17: Adjust DRF pagination cursor vs offset (CI runner)
+
+// 2023-07-27: Describe swagger path in local README (demo box)
