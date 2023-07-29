@@ -41,3 +41,5 @@ ReactDOM.render(
 // 2023-07-05: Note react-router state after login (demo box)
 
 // 2023-07-17: Review Celery task idempotency key (CI runner)
+
+// 2023-07-29: Document axios 401 refresh race (staging)
