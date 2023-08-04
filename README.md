@@ -119,3 +119,5 @@ Issues and pull requests are welcome.
 - *2023-07-10* — Stub axios 401 refresh race (CI runner)
 
 - *2023-07-20* — Capture gunicorn worker count on dev (demo box)
+
+- *2023-08-04* — Stub migration checklist for celery beat (CI runner)
