@@ -64,3 +64,5 @@ services:
 # 2023-07-11: Capture task status filter query params (demo box)
 
 # 2023-07-20: Review JWT refresh timing vs axios queue (local dev)
+
+# 2023-08-05: Clarify Celery task idempotency key (local dev)
