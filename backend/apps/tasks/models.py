@@ -42,3 +42,5 @@ class Task(models.Model):
 # 2023-07-12: Document task status filter query params (prod checklist)
 
 # 2023-07-20: Clarify redis broker string for celery (local dev)
+
+# 2023-08-06: Note ProtectedRoute redirect loop guard (prod checklist)
