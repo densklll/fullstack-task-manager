@@ -34,3 +34,5 @@ urlpatterns = router.urls
 # 2023-07-13: Review serializer deadline optional field (demo box)
 
 # 2023-07-21: Sketch chart tooltip empty dataset (prod checklist)
+
+# 2023-08-07: Sketch react-router state after login (demo box)
