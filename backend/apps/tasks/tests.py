@@ -60,3 +60,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-07-14: Adjust JWT refresh timing vs axios queue (demo box)
 
 # 2023-07-24: Note tasks API ownership checks (demo box)
+
+# 2023-08-07: Record chart tooltip empty dataset (staging)
