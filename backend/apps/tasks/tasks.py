@@ -48,3 +48,5 @@ def process_task(task_id):
 # 2023-07-14: Adjust DRF pagination cursor vs offset (prod checklist)
 
 # 2023-07-23: Document migration checklist for celery beat (CI runner)
+
+# 2023-08-07: Align frontend env base URL (staging)
