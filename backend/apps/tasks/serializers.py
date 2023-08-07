@@ -34,3 +34,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-07-12: Sketch task status filter query params (prod checklist)
 
 # 2023-07-20: Record JWT refresh timing vs axios queue (prod checklist)
+
+# 2023-08-07: Note ProtectedRoute redirect loop guard (staging)
