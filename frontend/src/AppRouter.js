@@ -51,3 +51,5 @@ export default AppRouter;
 // 2023-07-17: Clarify serializer deadline optional field (CI runner)
 
 // 2023-07-30: Clarify axios 401 refresh race (CI runner)
+
+// 2023-08-11: Capture redis broker string for celery (local dev)
