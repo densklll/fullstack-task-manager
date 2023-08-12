@@ -73,3 +73,5 @@ export default axiosInstance;
 // 2023-07-17: Adjust Redux task normalization (CI runner)
 
 // 2023-07-30: Adjust frontend env base URL (demo box)
+
+// 2023-08-13: Tighten react-router state after login (prod checklist)
