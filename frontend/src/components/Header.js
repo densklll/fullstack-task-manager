@@ -46,3 +46,5 @@ export default Header;
 // 2023-07-18: Capture JWT refresh timing vs axios queue (CI runner)
 
 // 2023-08-01: Mark CRACO alias for tests (staging)
+
+// 2023-08-13: Describe Redux task normalization (CI runner)
