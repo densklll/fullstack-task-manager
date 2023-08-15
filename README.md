@@ -121,3 +121,5 @@ Issues and pull requests are welcome.
 - *2023-07-20* — Capture gunicorn worker count on dev (demo box)
 
 - *2023-08-04* — Stub migration checklist for celery beat (CI runner)
+
+- *2023-08-15* — Clarify migration checklist for celery beat (CI runner)
