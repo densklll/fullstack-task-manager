@@ -32,3 +32,5 @@ Working log while iterating on the stack.
 - **2023-07-18**: Adjust redis broker string for celery (staging)
 
 - **2023-08-02**: Capture gunicorn worker count on dev (prod checklist)
+
+- **2023-08-15**: Document axios 401 refresh race (staging)
