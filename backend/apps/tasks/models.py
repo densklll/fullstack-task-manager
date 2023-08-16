@@ -44,3 +44,5 @@ class Task(models.Model):
 # 2023-07-20: Clarify redis broker string for celery (local dev)
 
 # 2023-08-06: Note ProtectedRoute redirect loop guard (prod checklist)
+
+# 2023-08-16: Mark gunicorn worker count on dev (local dev)
