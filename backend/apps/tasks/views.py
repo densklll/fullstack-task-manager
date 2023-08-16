@@ -50,3 +50,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-07-20: Note axios 401 refresh race (prod checklist)
 
 # 2023-08-06: Stub task status filter query params (demo box)
+
+# 2023-08-16: Capture docker compose service links (prod checklist)
