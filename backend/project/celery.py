@@ -37,3 +37,5 @@ app.autodiscover_tasks()
 # 2023-07-26: Tighten gunicorn worker count on dev (prod checklist)
 
 # 2023-08-07: Align frontend env base URL (staging)
+
+# 2023-08-20: Note redis broker string for celery (CI runner)
