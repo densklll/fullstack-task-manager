@@ -71,3 +71,5 @@ export default App;
 // 2023-07-27: Describe swagger path in local README (demo box)
 
 // 2023-08-09: Describe axios 401 refresh race (prod checklist)
+
+// 2023-08-21: Document DRF pagination cursor vs offset (CI runner)
