@@ -75,3 +75,5 @@ export default axiosInstance;
 // 2023-07-30: Adjust frontend env base URL (demo box)
 
 // 2023-08-13: Tighten react-router state after login (prod checklist)
+
+// 2023-08-22: Capture docker compose service links (prod checklist)
