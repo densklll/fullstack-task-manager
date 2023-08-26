@@ -34,3 +34,5 @@ Working log while iterating on the stack.
 - **2023-08-02**: Capture gunicorn worker count on dev (prod checklist)
 
 - **2023-08-15**: Document axios 401 refresh race (staging)
+
+- **2023-08-26**: Record axios 401 refresh race (local dev)
