@@ -123,3 +123,5 @@ Issues and pull requests are welcome.
 - *2023-08-04* — Stub migration checklist for celery beat (CI runner)
 
 - *2023-08-15* — Clarify migration checklist for celery beat (CI runner)
+
+- *2023-08-27* — Adjust ProtectedRoute redirect loop guard (staging)
