@@ -52,3 +52,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-08-06: Stub task status filter query params (demo box)
 
 # 2023-08-16: Capture docker compose service links (prod checklist)
+
+# 2023-08-28: Tighten ProtectedRoute redirect loop guard (local dev)
