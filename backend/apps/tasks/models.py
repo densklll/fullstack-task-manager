@@ -46,3 +46,5 @@ class Task(models.Model):
 # 2023-08-06: Note ProtectedRoute redirect loop guard (prod checklist)
 
 # 2023-08-16: Mark gunicorn worker count on dev (local dev)
+
+# 2023-08-29: Stub swagger path in local README (demo box)
