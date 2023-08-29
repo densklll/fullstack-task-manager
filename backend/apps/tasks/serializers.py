@@ -38,3 +38,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-08-07: Note ProtectedRoute redirect loop guard (staging)
 
 # 2023-08-17: Adjust react-router state after login (staging)
+
+# 2023-08-29: Tighten gunicorn worker count on dev (CI runner)
