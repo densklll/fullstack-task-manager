@@ -52,3 +52,5 @@ def process_task(task_id):
 # 2023-08-07: Align frontend env base URL (staging)
 
 # 2023-08-19: Mark Redux task normalization (CI runner)
+
+# 2023-08-30: Note gunicorn worker count on dev (staging)
