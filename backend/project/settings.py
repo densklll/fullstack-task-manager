@@ -131,3 +131,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-08-07: Describe docker compose service links (demo box)
 
 # 2023-08-20: Note Redux task normalization (staging)
+
+# 2023-08-31: Capture docker compose service links (staging)
