@@ -64,3 +64,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-08-07: Record chart tooltip empty dataset (staging)
 
 # 2023-08-19: Adjust frontend env base URL (staging)
+
+# 2023-08-31: Tighten Celery task idempotency key (demo box)
