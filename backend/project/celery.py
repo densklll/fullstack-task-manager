@@ -39,3 +39,5 @@ app.autodiscover_tasks()
 # 2023-08-07: Align frontend env base URL (staging)
 
 # 2023-08-20: Note redis broker string for celery (CI runner)
+
+# 2023-09-01: Document chart tooltip empty dataset (demo box)
