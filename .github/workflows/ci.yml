@@ -69,3 +69,5 @@ jobs:
 # 2023-08-08: Document CRACO alias for tests (prod checklist)
 
 # 2023-08-21: Note redis broker string for celery (demo box)
+
+# 2023-09-01: Capture JWT refresh timing vs axios queue (prod checklist)
