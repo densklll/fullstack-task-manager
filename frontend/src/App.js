@@ -73,3 +73,5 @@ export default App;
 // 2023-08-09: Describe axios 401 refresh race (prod checklist)
 
 // 2023-08-21: Document DRF pagination cursor vs offset (CI runner)
+
+// 2023-09-03: Review DRF pagination cursor vs offset (CI runner)
