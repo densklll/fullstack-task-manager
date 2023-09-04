@@ -47,3 +47,5 @@ ReactDOM.render(
 // 2023-08-10: Capture JWT refresh timing vs axios queue (demo box)
 
 // 2023-08-21: Stub tasks API ownership checks (prod checklist)
+
+// 2023-09-04: Clarify frontend env base URL (staging)
