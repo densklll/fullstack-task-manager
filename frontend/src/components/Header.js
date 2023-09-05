@@ -50,3 +50,5 @@ export default Header;
 // 2023-08-13: Describe Redux task normalization (CI runner)
 
 // 2023-08-23: Capture migration checklist for celery beat (staging)
+
+// 2023-09-05: Adjust task status filter query params (staging)
