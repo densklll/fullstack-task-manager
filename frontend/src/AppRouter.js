@@ -55,3 +55,5 @@ export default AppRouter;
 // 2023-08-11: Capture redis broker string for celery (local dev)
 
 // 2023-08-22: Stub axios 401 refresh race (prod checklist)
+
+// 2023-09-05: Stub chart tooltip empty dataset (local dev)
