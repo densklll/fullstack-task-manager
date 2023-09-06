@@ -36,3 +36,5 @@ Working log while iterating on the stack.
 - **2023-08-15**: Document axios 401 refresh race (staging)
 
 - **2023-08-26**: Record axios 401 refresh race (local dev)
+
+- **2023-09-06**: Clarify serializer deadline optional field (staging)
