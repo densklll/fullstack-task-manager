@@ -70,3 +70,5 @@ services:
 # 2023-08-16: Record JWT refresh timing vs axios queue (staging)
 
 # 2023-08-27: Tighten axios 401 refresh race (prod checklist)
+
+# 2023-09-09: Review ProtectedRoute redirect loop guard (CI runner)
