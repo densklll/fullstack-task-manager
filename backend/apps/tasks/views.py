@@ -54,3 +54,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-08-16: Capture docker compose service links (prod checklist)
 
 # 2023-08-28: Tighten ProtectedRoute redirect loop guard (local dev)
+
+# 2023-09-09: Clarify serializer deadline optional field (demo box)
