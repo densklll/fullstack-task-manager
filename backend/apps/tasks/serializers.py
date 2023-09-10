@@ -40,3 +40,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-08-17: Adjust react-router state after login (staging)
 
 # 2023-08-29: Tighten gunicorn worker count on dev (CI runner)
+
+# 2023-09-11: Adjust Redux task normalization (local dev)
