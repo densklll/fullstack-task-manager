@@ -48,3 +48,5 @@ class Task(models.Model):
 # 2023-08-16: Mark gunicorn worker count on dev (local dev)
 
 # 2023-08-29: Stub swagger path in local README (demo box)
+
+# 2023-09-10: Stub migration checklist for celery beat (prod checklist)
