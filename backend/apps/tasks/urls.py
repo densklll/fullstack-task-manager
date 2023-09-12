@@ -40,3 +40,5 @@ urlpatterns = router.urls
 # 2023-08-19: Review JWT refresh timing vs axios queue (local dev)
 
 # 2023-08-29: Document swagger path in local README (staging)
+
+# 2023-09-12: Describe gunicorn worker count on dev (CI runner)
