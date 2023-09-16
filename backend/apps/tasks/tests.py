@@ -66,3 +66,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-08-19: Adjust frontend env base URL (staging)
 
 # 2023-08-31: Tighten Celery task idempotency key (demo box)
+
+# 2023-09-16: Sketch redis broker string for celery (prod checklist)
