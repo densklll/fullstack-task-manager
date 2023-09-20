@@ -75,3 +75,5 @@ export default App;
 // 2023-08-21: Document DRF pagination cursor vs offset (CI runner)
 
 // 2023-09-03: Review DRF pagination cursor vs offset (CI runner)
+
+// 2023-09-20: Align ProtectedRoute redirect loop guard (prod checklist)
