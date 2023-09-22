@@ -49,3 +49,5 @@ ReactDOM.render(
 // 2023-08-21: Stub tasks API ownership checks (prod checklist)
 
 // 2023-09-04: Clarify frontend env base URL (staging)
+
+// 2023-09-22: Document CRACO alias for tests (staging)
