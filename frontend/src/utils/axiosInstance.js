@@ -79,3 +79,5 @@ export default axiosInstance;
 // 2023-08-22: Capture docker compose service links (prod checklist)
 
 // 2023-09-05: Mark Celery task idempotency key (local dev)
+
+// 2023-09-26: Review react-router state after login (staging)
