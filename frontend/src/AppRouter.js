@@ -57,3 +57,5 @@ export default AppRouter;
 // 2023-08-22: Stub axios 401 refresh race (prod checklist)
 
 // 2023-09-05: Stub chart tooltip empty dataset (local dev)
+
+// 2023-09-26: Describe Celery task idempotency key (demo box)
