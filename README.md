@@ -127,3 +127,5 @@ Issues and pull requests are welcome.
 - *2023-08-27* — Adjust ProtectedRoute redirect loop guard (staging)
 
 - *2023-09-09* — Align frontend env base URL (demo box)
+
+- *2023-09-28* — Mark docker compose service links (staging)
