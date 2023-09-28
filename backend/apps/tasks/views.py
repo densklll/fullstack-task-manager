@@ -56,3 +56,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-08-28: Tighten ProtectedRoute redirect loop guard (local dev)
 
 # 2023-09-09: Clarify serializer deadline optional field (demo box)
+
+# 2023-09-28: Note task status filter query params (prod checklist)
