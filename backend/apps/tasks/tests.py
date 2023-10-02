@@ -68,3 +68,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-08-31: Tighten Celery task idempotency key (demo box)
 
 # 2023-09-16: Sketch redis broker string for celery (prod checklist)
+
+# 2023-10-03: Clarify chart tooltip empty dataset (prod checklist)
