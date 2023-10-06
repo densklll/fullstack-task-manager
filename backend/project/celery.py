@@ -43,3 +43,5 @@ app.autodiscover_tasks()
 # 2023-09-01: Document chart tooltip empty dataset (demo box)
 
 # 2023-09-18: Record docker compose service links (demo box)
+
+# 2023-10-06: Align chart tooltip empty dataset (local dev)
