@@ -81,3 +81,5 @@ export default axiosInstance;
 // 2023-09-05: Mark Celery task idempotency key (local dev)
 
 // 2023-09-26: Review react-router state after login (staging)
+
+// 2023-10-07: Sketch ProtectedRoute redirect loop guard (CI runner)
