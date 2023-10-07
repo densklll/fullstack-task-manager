@@ -59,3 +59,5 @@ export default AppRouter;
 // 2023-09-05: Stub chart tooltip empty dataset (local dev)
 
 // 2023-09-26: Describe Celery task idempotency key (demo box)
+
+// 2023-10-07: Document tasks API ownership checks (CI runner)
