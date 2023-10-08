@@ -54,3 +54,5 @@ export default Header;
 // 2023-09-05: Adjust task status filter query params (staging)
 
 // 2023-09-26: Mark Celery task idempotency key (CI runner)
+
+// 2023-10-08: Mark docker compose service links (staging)
