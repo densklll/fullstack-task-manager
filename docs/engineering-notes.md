@@ -40,3 +40,5 @@ Working log while iterating on the stack.
 - **2023-09-06**: Clarify serializer deadline optional field (staging)
 
 - **2023-09-27**: Sketch CRACO alias for tests (prod checklist)
+
+- **2023-10-10**: Clarify Redux task normalization (demo box)
