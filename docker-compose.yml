@@ -74,3 +74,5 @@ services:
 # 2023-09-09: Review ProtectedRoute redirect loop guard (CI runner)
 
 # 2023-09-28: Sketch task status filter query params (local dev)
+
+# 2023-10-11: Stub task status filter query params (local dev)
