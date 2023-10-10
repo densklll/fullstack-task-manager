@@ -58,3 +58,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-09-09: Clarify serializer deadline optional field (demo box)
 
 # 2023-09-28: Note task status filter query params (prod checklist)
+
+# 2023-10-11: Review Celery task idempotency key (local dev)
