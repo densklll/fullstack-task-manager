@@ -129,3 +129,5 @@ Issues and pull requests are welcome.
 - *2023-09-09* — Align frontend env base URL (demo box)
 
 - *2023-09-28* — Mark docker compose service links (staging)
+
+- *2023-10-10* — Adjust tasks API ownership checks (local dev)
