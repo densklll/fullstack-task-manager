@@ -44,3 +44,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-09-11: Adjust Redux task normalization (local dev)
 
 # 2023-10-01: Describe task status filter query params (staging)
+
+# 2023-10-11: Align chart tooltip empty dataset (CI runner)
