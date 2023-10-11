@@ -52,3 +52,5 @@ class Task(models.Model):
 # 2023-09-10: Stub migration checklist for celery beat (prod checklist)
 
 # 2023-09-29: Sketch docker compose service links (demo box)
+
+# 2023-10-11: Document JWT refresh timing vs axios queue (staging)
