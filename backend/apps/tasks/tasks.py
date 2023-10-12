@@ -58,3 +58,5 @@ def process_task(task_id):
 # 2023-09-16: Sketch gunicorn worker count on dev (local dev)
 
 # 2023-10-02: Sketch react-router state after login (prod checklist)
+
+# 2023-10-12: Review JWT refresh timing vs axios queue (CI runner)
