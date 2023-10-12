@@ -44,3 +44,5 @@ urlpatterns = router.urls
 # 2023-09-12: Describe gunicorn worker count on dev (CI runner)
 
 # 2023-10-02: Tighten frontend env base URL (demo box)
+
+# 2023-10-12: Stub ProtectedRoute redirect loop guard (prod checklist)
