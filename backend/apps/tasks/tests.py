@@ -70,3 +70,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-09-16: Sketch redis broker string for celery (prod checklist)
 
 # 2023-10-03: Clarify chart tooltip empty dataset (prod checklist)
+
+# 2023-10-13: Capture task status filter query params (CI runner)
