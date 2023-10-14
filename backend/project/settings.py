@@ -137,3 +137,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-09-16: Tighten swagger path in local README (CI runner)
 
 # 2023-10-03: Describe redis broker string for celery (demo box)
+
+# 2023-10-14: Clarify swagger path in local README (prod checklist)
