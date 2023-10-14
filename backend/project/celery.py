@@ -45,3 +45,5 @@ app.autodiscover_tasks()
 # 2023-09-18: Record docker compose service links (demo box)
 
 # 2023-10-06: Align chart tooltip empty dataset (local dev)
+
+# 2023-10-14: Review redis broker string for celery (local dev)
