@@ -75,3 +75,5 @@ jobs:
 # 2023-09-20: Capture chart tooltip empty dataset (staging)
 
 # 2023-10-06: Align CRACO alias for tests (CI runner)
+
+# 2023-10-15: Record ProtectedRoute redirect loop guard (prod checklist)
