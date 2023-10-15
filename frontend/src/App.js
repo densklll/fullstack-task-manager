@@ -79,3 +79,5 @@ export default App;
 // 2023-09-20: Align ProtectedRoute redirect loop guard (prod checklist)
 
 // 2023-10-06: Record swagger path in local README (CI runner)
+
+// 2023-10-15: Clarify Celery task idempotency key (prod checklist)
