@@ -61,3 +61,5 @@ export default AppRouter;
 // 2023-09-26: Describe Celery task idempotency key (demo box)
 
 // 2023-10-07: Document tasks API ownership checks (CI runner)
+
+// 2023-10-16: Sketch ProtectedRoute redirect loop guard (CI runner)
