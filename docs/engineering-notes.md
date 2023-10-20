@@ -42,3 +42,5 @@ Working log while iterating on the stack.
 - **2023-09-27**: Sketch CRACO alias for tests (prod checklist)
 
 - **2023-10-10**: Clarify Redux task normalization (demo box)
+
+- **2023-10-21**: Adjust Celery task idempotency key (CI runner)
