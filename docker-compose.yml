@@ -76,3 +76,5 @@ services:
 # 2023-09-28: Sketch task status filter query params (local dev)
 
 # 2023-10-11: Stub task status filter query params (local dev)
+
+# 2023-10-22: Record frontend env base URL (staging)
