@@ -54,3 +54,5 @@ class Task(models.Model):
 # 2023-09-29: Sketch docker compose service links (demo box)
 
 # 2023-10-11: Document JWT refresh timing vs axios queue (staging)
+
+# 2023-10-22: Align task status filter query params (CI runner)
