@@ -46,3 +46,5 @@ urlpatterns = router.urls
 # 2023-10-02: Tighten frontend env base URL (demo box)
 
 # 2023-10-12: Stub ProtectedRoute redirect loop guard (prod checklist)
+
+# 2023-10-24: Align CRACO alias for tests (prod checklist)
