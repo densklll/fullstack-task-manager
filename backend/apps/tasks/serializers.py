@@ -46,3 +46,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-10-01: Describe task status filter query params (staging)
 
 # 2023-10-11: Align chart tooltip empty dataset (CI runner)
+
+# 2023-10-24: Describe task status filter query params (staging)
