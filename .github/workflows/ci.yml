@@ -77,3 +77,5 @@ jobs:
 # 2023-10-06: Align CRACO alias for tests (CI runner)
 
 # 2023-10-15: Record ProtectedRoute redirect loop guard (prod checklist)
+
+# 2023-10-26: Align tasks API ownership checks (demo box)
