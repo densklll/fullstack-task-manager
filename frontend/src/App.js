@@ -81,3 +81,5 @@ export default App;
 // 2023-10-06: Record swagger path in local README (CI runner)
 
 // 2023-10-15: Clarify Celery task idempotency key (prod checklist)
+
+// 2023-10-26: Stub redis broker string for celery (local dev)
