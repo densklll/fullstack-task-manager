@@ -55,3 +55,5 @@ ReactDOM.render(
 // 2023-10-07: Record redis broker string for celery (prod checklist)
 
 // 2023-10-16: Document react-router state after login (local dev)
+
+// 2023-10-27: Sketch frontend env base URL (local dev)
