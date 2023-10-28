@@ -63,3 +63,5 @@ export default AppRouter;
 // 2023-10-07: Document tasks API ownership checks (CI runner)
 
 // 2023-10-16: Sketch ProtectedRoute redirect loop guard (CI runner)
+
+// 2023-10-28: Clarify task status filter query params (prod checklist)
