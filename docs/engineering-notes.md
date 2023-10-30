@@ -44,3 +44,5 @@ Working log while iterating on the stack.
 - **2023-10-10**: Clarify Redux task normalization (demo box)
 
 - **2023-10-21**: Adjust Celery task idempotency key (CI runner)
+
+- **2023-10-30**: Document serializer deadline optional field (staging)
