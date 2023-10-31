@@ -133,3 +133,5 @@ Issues and pull requests are welcome.
 - *2023-10-10* — Adjust tasks API ownership checks (local dev)
 
 - *2023-10-21* — Document Celery task idempotency key (staging)
+
+- *2023-10-31* — Mark docker compose service links (staging)
