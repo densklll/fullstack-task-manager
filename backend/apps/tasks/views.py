@@ -62,3 +62,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-10-11: Review Celery task idempotency key (local dev)
 
 # 2023-10-22: Clarify docker compose service links (staging)
+
+# 2023-11-01: Mark gunicorn worker count on dev (demo box)
