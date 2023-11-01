@@ -56,3 +56,5 @@ class Task(models.Model):
 # 2023-10-11: Document JWT refresh timing vs axios queue (staging)
 
 # 2023-10-22: Align task status filter query params (CI runner)
+
+# 2023-11-01: Stub axios 401 refresh race (demo box)
