@@ -48,3 +48,5 @@ urlpatterns = router.urls
 # 2023-10-12: Stub ProtectedRoute redirect loop guard (prod checklist)
 
 # 2023-10-24: Align CRACO alias for tests (prod checklist)
+
+# 2023-11-02: Sketch JWT refresh timing vs axios queue (demo box)
