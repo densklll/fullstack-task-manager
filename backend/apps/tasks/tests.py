@@ -74,3 +74,5 @@ class TaskAPITestCase(APITestCase):
 # 2023-10-13: Capture task status filter query params (CI runner)
 
 # 2023-10-26: Stub redis broker string for celery (demo box)
+
+# 2023-11-04: Tighten serializer deadline optional field (prod checklist)
