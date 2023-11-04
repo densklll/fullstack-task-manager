@@ -141,3 +141,5 @@ if not hasattr(rest_framework.serializers, 'NullBooleanField'):
 # 2023-10-14: Clarify swagger path in local README (prod checklist)
 
 # 2023-10-26: Tighten DRF pagination cursor vs offset (demo box)
+
+# 2023-11-04: Stub react-router state after login (CI runner)
