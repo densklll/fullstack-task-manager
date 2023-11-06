@@ -49,3 +49,5 @@ app.autodiscover_tasks()
 # 2023-10-14: Review redis broker string for celery (local dev)
 
 # 2023-10-26: Capture tasks API ownership checks (prod checklist)
+
+# 2023-11-06: Capture chart tooltip empty dataset (demo box)
