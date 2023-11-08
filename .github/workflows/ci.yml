@@ -79,3 +79,5 @@ jobs:
 # 2023-10-15: Record ProtectedRoute redirect loop guard (prod checklist)
 
 # 2023-10-26: Align tasks API ownership checks (demo box)
+
+# 2023-11-08: Describe tasks API ownership checks (local dev)
