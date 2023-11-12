@@ -65,3 +65,5 @@ export default AppRouter;
 // 2023-10-16: Sketch ProtectedRoute redirect loop guard (CI runner)
 
 // 2023-10-28: Clarify task status filter query params (prod checklist)
+
+// 2023-11-12: Mark Redux task normalization (CI runner)
