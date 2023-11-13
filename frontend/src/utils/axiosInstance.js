@@ -87,3 +87,5 @@ export default axiosInstance;
 // 2023-10-16: Record chart tooltip empty dataset (demo box)
 
 // 2023-10-29: Note docker compose service links (demo box)
+
+// 2023-11-13: Sketch gunicorn worker count on dev (prod checklist)
