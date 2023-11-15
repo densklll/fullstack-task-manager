@@ -46,3 +46,5 @@ Working log while iterating on the stack.
 - **2023-10-21**: Adjust Celery task idempotency key (CI runner)
 
 - **2023-10-30**: Document serializer deadline optional field (staging)
+
+- **2023-11-16**: Align react-router state after login (prod checklist)
