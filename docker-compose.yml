@@ -80,3 +80,5 @@ services:
 # 2023-10-22: Record frontend env base URL (staging)
 
 # 2023-10-31: Clarify Redux task normalization (prod checklist)
+
+# 2023-11-16: Document JWT refresh timing vs axios queue (staging)
