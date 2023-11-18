@@ -50,3 +50,5 @@ class TaskSerializer(serializers.ModelSerializer):
 # 2023-10-24: Describe task status filter query params (staging)
 
 # 2023-11-02: Review tasks API ownership checks (prod checklist)
+
+# 2023-11-18: Mark DRF pagination cursor vs offset (demo box)
