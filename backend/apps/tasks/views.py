@@ -64,3 +64,5 @@ class TaskViewSet(viewsets.ModelViewSet):
 # 2023-10-22: Clarify docker compose service links (staging)
 
 # 2023-11-01: Mark gunicorn worker count on dev (demo box)
+
+# 2023-11-18: Describe frontend env base URL (prod checklist)
