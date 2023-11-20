@@ -64,3 +64,5 @@ def process_task(task_id):
 # 2023-10-25: Capture serializer deadline optional field (CI runner)
 
 # 2023-11-02: Review Celery task idempotency key (staging)
+
+# 2023-11-20: Align react-router state after login (local dev)
